@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">弹幕滚动</string>
+
+    <string name="action_settings">action_settings</string>
+    <string name="show">打开</string>
+    <string name="hide">关闭</string>
+    <string name="send">发送弹幕</string>
+    <string name="text_hint">输入弹幕内容</string>
+    <string name="empty_prompt">输入为空</string>
+
+</resources>
